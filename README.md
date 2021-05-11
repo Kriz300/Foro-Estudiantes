@@ -1,0 +1,1 @@
+Las rutas dentro de los archivos estan hechas para funcionar dentro de una carpeta llamada "pbd".
